@@ -40,5 +40,5 @@ Voici un aperçu des projets sur lesquels j'ai travaillé et que j'affine contin
 
 ### 📫 Me contacter
 
-- 💼 **LinkedIn** : [Insère le lien de ton profil LinkedIn ici]
-- 📧 **Email** : [Insère ton adresse email pro ici]
+- 💼 **LinkedIn** : 
+- 📧 **Email** : kargbodesmond63@gmail.com
